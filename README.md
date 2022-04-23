@@ -14,5 +14,4 @@
 * **CSS (Flexbox, Grid Layout)**
 * **Методология БЭМ - Nested**
 
-Проект выполнен благодаря [Яндекс.Практикум](https://practicum.yandex.ru
-).
+Проект выполнен благодаря [Яндекс.Практикум](https://practicum.yandex.ru)
