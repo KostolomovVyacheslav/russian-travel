@@ -1,4 +1,4 @@
-.photo-grid {
+.photo-grid__list {
    max-width: 1184px;
    box-sizing: border-box;
 
@@ -6,6 +6,8 @@
    grid-template-columns: repeat(4, 1fr);
    grid-template-rows: repeat(3, 1fr);
    gap: 16px;
+
+   list-style: none;
 
    padding: 0 48px 92px 48px;
    margin: 0 auto;
