@@ -2,7 +2,7 @@
    max-width: 100%;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 560px) {
    .place__image {
       padding-bottom: 32px;
    }   

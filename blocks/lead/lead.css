@@ -1,5 +1,5 @@
 .lead {
-   max-width: 1184px;
+   max-width: 1280px;
    box-sizing: border-box;
 
    display: flex;
@@ -28,8 +28,6 @@
 
 @media (min-width: 769px) and (max-width: 1024px) {
    .lead {
-      max-width: 928px;
-
       padding: 48px 48px 92px 48px;
    }
 }

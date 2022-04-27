@@ -24,16 +24,16 @@
    }
 }
 
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 426px) and (max-width: 630px) {
    .lead__title {
-      font-size: 60px;
+      font-size: 55px;
       line-height: 70px;
    }
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 631px) and (max-width: 730px) {
    .lead__title {
-      font-size: 80px;
-      line-height: 80px;
+      font-size: 60px;
+      line-height: 70px;
    }
 }
