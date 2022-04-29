@@ -13,6 +13,19 @@
    color: #ffffff;
 }
 
+@media screen and (max-width: 730px) {
+   .lead__title {
+      font-size: 60px;
+      line-height: 70px;
+   }
+}
+
+@media screen and (max-width: 630px) {
+   .lead__title {
+      font-size: 55px;
+   }
+}
+
 @media screen and (max-width: 425px) {
    .lead__title {
       max-width: 288px;
@@ -21,19 +34,5 @@
       line-height: 44px;
 
       padding-bottom: 16px;
-   }
-}
-
-@media (min-width: 426px) and (max-width: 630px) {
-   .lead__title {
-      font-size: 55px;
-      line-height: 70px;
-   }
-}
-
-@media (min-width: 631px) and (max-width: 730px) {
-   .lead__title {
-      font-size: 60px;
-      line-height: 70px;
    }
 }
